@@ -1,0 +1,10 @@
+.top-name{
+    margin-left: 15px;
+    margin-top:  7px;;
+}
+.dropdown-menu{
+    min-width: 10px !important;
+}
+.main-section{
+    background-color: rgb(192, 193, 201);
+}
